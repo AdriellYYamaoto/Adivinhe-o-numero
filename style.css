@@ -1,0 +1,33 @@
+header{ 
+  font-family: 'Play',monospace;
+	color: #FFFFFF;	
+	
+}
+h1,h2,h3{
+  font-family: 'Play',monospace;
+	color: #FFFFFF;
+}
+
+label,div{
+  font-family: 'Play',monospace;
+	color: #FFFFFF;
+}
+  
+  body{
+    background-color: #000000;
+  }
+
+  input{
+  width: 100px;
+  height: 30px;
+  border-color: #000000;
+  border-style: solid;
+  
+}
+
+#btn-jogarNovamente {
+	width: 150px;
+  height: 30px;
+  border-color: #000000;
+  border-style: solid;
+}
