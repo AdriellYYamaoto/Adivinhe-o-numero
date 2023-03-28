@@ -30,8 +30,8 @@ function sorteio (){
     
 	let chute = document.getElementById("inp-number").value;
 	var numeroEscolhido = document.getElementById('numeroSoteado')
-	var html = "Numero: " + numero ;
-	numeroEscolhido.innerHTML =html;
+	/*var html = "Numero: " + numero ;
+	numeroEscolhido.innerHTML =html;*/
     
 	if (tentativas > 3){
 		habilitaDesabilitarBotoes ();
